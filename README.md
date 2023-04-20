@@ -1,2 +1,4 @@
-# SpaceXLaunchCombine
-Build an app to view space x launches and rockets' detail with Combine and SwiftUI
+# SpaceXLaunchCombine - a simple SpaceX Launches SwiftUI & Combine iOS app
+
+Walkthrough:
+![](SpaceXLaunchCombine.gif)
